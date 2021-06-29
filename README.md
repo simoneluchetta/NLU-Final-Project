@@ -1,6 +1,8 @@
 # NLU-Final-Project
 Final project for the NLU course
 
+# Student info:
+Simone Luchetta, ID = 223716
 
 # Quick guide:
 The code is written on a separate Google Colab notebook using PyTorch's framework. It contains both the GRU and LSTM classes. Only the LSTM Layers are used in the model, because they seemed to give better performances over the GRU ones. Nevertheless, slight changes could be applied in order to make GRU Layers work.

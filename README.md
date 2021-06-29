@@ -4,7 +4,9 @@ Final project for the NLU course
 
 # Quick guide:
 The code is written on a separate Google Colab notebook using PyTorch's framework. It contains both the GRU and LSTM classes. Only the LSTM Layers are used in the model, because they seemed to give better performances over the GRU ones. Nevertheless, slight changes could be applied in order to make GRU Layers work.
-Be sure to specify the correct input and output folders in order for the model to firstly train and then output the obtained model.
+
+Be sure to specify the correct input and output folders in the '''main''' section of the code, in order for the model to firstly train and then output the model_test.pt file.
+In my case, I put the input data in a drive folder; the path is clearly visible in the '''main''' section.
 
 ## Imports:
 Contain the basic imports to make the project work

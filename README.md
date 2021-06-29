@@ -57,6 +57,8 @@ How to implement a small portion of the code, and why do we pick an optimizer ov
 
 [PyTorch basic op](https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html)
 
+[PyTorch basic op](https://pytorch.org/tutorials/recipes/recipes/defining_a_neural_network.html)
+
 [Pytorch stuff](https://pytorch.org/docs/master/generated/torch.nn.utils.rnn.pack_padded_sequence.html#torch.nn.utils.rnn.pack_padded_sequence)
 
 [PyTorch stuff](https://pytorch.org/docs/stable/generated/torch.nn.utils.rnn.pad_sequence.html#torch.nn.utils.rnn.pad_sequence)
